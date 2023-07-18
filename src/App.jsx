@@ -7,10 +7,11 @@ function App() {
 
   return (
     <>
+    <div className='cards-list'>
     <Card />
     <Card />
     <Card />
-
+    </div>
     </>
   )
 }

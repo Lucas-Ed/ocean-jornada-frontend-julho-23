@@ -4,3 +4,6 @@
 
 }
 
+.cards-list {
+  display: flex; 
+}
