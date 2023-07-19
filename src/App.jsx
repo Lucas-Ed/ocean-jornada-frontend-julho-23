@@ -6,7 +6,7 @@ const item1 = {
   imagem:
     "https://static.tvtropes.org/pmwiki/pub/images/abcb6534_7913_4eb1_a7a5_62b081ebc628.png",
 };
-
+// Define os itens a ser renderizado nos cards
 const item2 = {
   nome: "Morty Smith",
   imagem:
@@ -17,6 +17,7 @@ function App() {
   return (
     <>
       <div className="cards-list">
+            {/* item que dá nome a props */}
         <Card item={item1} />
         <Card item={item2} />
       </div>
