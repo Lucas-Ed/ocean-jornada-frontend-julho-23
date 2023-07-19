@@ -30,3 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Confira [aqui em breve.]()
 ---
+<!-- duplicar código:
+Alt + Shit + Seta para cima ou para baixo -->
+
+<!-- Alt + Shift + O: Otimizar Imports -->

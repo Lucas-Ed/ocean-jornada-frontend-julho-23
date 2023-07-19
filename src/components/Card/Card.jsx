@@ -1,12 +1,16 @@
-//crie um componente react?
-// import React from "react";
-import './Card.css'
-export default function Card() {
-    return (
-    <>
-    <div className='card'><h1>Título do item </h1>
-    <img src="https://static.tvtropes.org/pmwiki/pub/images/abcb6534_7913_4eb1_a7a5_62b081ebc628.png"/>
-    </div>
-    </>);
-}
+import "./Card.css";
 
+export default function Card(props) {
+  // console.log(props);
+
+  const item = props.item;
+
+  // console.log(item);
+
+  return (
+    <div className="card">
+      <h1>{item.nome}</h1>
+      <img src={item.imagem} />
+    </div>
+  );
+}
