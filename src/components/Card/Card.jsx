@@ -1,11 +1,9 @@
-/* eslint-disable react/prop-types */
 import "./Card.css";
 
 export default function Card(props) {
   // console.log(props);
 
-  // eslint-disable-next-line react/prop-types
-  const item = props.item; //Definir props como item
+  const item = props.item;
 
   // console.log(item);
 
