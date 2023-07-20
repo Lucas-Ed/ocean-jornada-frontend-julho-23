@@ -26,11 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 - Mais sobre o projeto desenvolvido no curso [aqui.](https://miro.com/app/board/uXjVM158VSo=/?share_link_id=632396607701)
-
-
-## Deploy do projeto
-
-Confira [aqui em breve.]()
 ---
 <!-- duplicar código:
 Alt + Shit + Seta para cima ou para baixo -->
