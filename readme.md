@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-< align="center">
+
 <h4>Arquivos do curso Jornada frontend, sansung (Ocean Brasil)</h4>
 
 #### É um programa de capacitação tecnológica da Samsung, que o [Ocean](https://oceanbrasil.com) realiza, mensalmente, cursos, eventos e programas gratuitos que fomentam o ecossistema de inovação e tecnologia de forma presencial e online.
